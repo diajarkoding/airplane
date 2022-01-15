@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299122574958",
+    "project_id": "airplane-7f743",
+    "storage_bucket": "airplane-7f743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299122574958:android:c6c8cb60d6467424ac887f",
+        "android_client_info": {
+          "package_name": "com.iskandar.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299122574958-cnusggojk6rqvlm7r4sslhmqtubd9jpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1U__YZW4c8l4kcumW4dlanlsy6hMLQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299122574958-cnusggojk6rqvlm7r4sslhmqtubd9jpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
